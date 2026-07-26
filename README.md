@@ -19,8 +19,6 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 - ✅ **LeetCode** (Primary)
 - ✅ **GeeksforGeeks**
-- ✅ **CodeChef**
-- ✅ **InterviewBit**
 
 **Current Progress:** [YOUR_TOTAL_PROBLEMS] problems solved and counting! 📈
 

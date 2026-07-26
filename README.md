@@ -1,14 +1,17 @@
-# DSA
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 📘 DSA — Data Structures & Algorithms
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0796-rotate-string](https://github.com/Bunty3545/DSA/tree/master/0796-rotate-string) |
-## String Matching
-|  |
-| ------- |
-| [0796-rotate-string](https://github.com/Bunty3545/DSA/tree/master/0796-rotate-string) |
-<!---LeetCode Topics End-->
+> A curated collection of Data Structures and Algorithms problems solved in **Java / Python / C++** (choose yours) — designed to ace coding interviews at FAANG and top-tier tech companies.
+
+---
+
+## 🚀 Features
+
+- ✅ 100+ LeetCode problems with solutions
+- ✅ Clean, optimized, and well-commented code
+- ✅ Topic-wise categorization (Arrays, DP, Trees, Graphs, etc.)
+- ✅ Beats 90%+ solutions in time & space complexity
+- ✅ Regular updates with new problems
+
+---
+
+## 📂 Folder Structure

@@ -1,17 +1,34 @@
-# 📘 DSA — Data Structures & Algorithms
-
-> A curated collection of Data Structures and Algorithms problems solved in **Java / Python / C++** (choose yours) — designed to ace coding interviews at FAANG and top-tier tech companies.
+<div align="center">
+  
+  # 📘 Data Structures & Algorithms Mastery
+  
+  [![GitHub stars](https://img.shields.io/github/stars/[YOUR_USERNAME]/DSA?style=for-the-badge&logo=github)](https://github.com/[YOUR_USERNAME]/DSA/stargazers)
+  [![GitHub forks](https://img.shields.io/github/forks/[YOUR_USERNAME]/DSA?style=for-the-badge&logo=github)](https://github.com/[YOUR_USERNAME]/DSA/network)
+  [![GitHub last commit](https://img.shields.io/github/last-commit/[YOUR_USERNAME]/DSA?style=for-the-badge)](https://github.com/[YOUR_USERNAME]/DSA/commits/main)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-[YOUR_LEETCODE_USERNAME]-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/[YOUR_LEETCODE_USERNAME]/)
+  
+  > ### 🎯 **"Crack coding interviews at FAANG & Top Tech Companies"**
+  
+</div>
 
 ---
 
-## 🚀 Features
+## 🚀 **About This Repository**
 
-- ✅ 100+ LeetCode problems with solutions
-- ✅ Clean, optimized, and well-commented code
-- ✅ Topic-wise categorization (Arrays, DP, Trees, Graphs, etc.)
-- ✅ Beats 90%+ solutions in time & space complexity
-- ✅ Regular updates with new problems
+This repository contains my solutions to Data Structures and Algorithms problems from:
+
+- ✅ **LeetCode** (Primary)
+- ✅ **GeeksforGeeks**
+- ✅ **CodeChef**
+- ✅ **InterviewBit**
+
+**Current Progress:** [YOUR_TOTAL_PROBLEMS] problems solved and counting! 📈
 
 ---
 
-## 📂 Folder Structure
+## 📂 **Folder Structure**
+
+
+
+📈 LeetCode Stats
+https://leetcard.jacoblin.cool/Bunty3545?theme=dark&font=Noto%2520Sans

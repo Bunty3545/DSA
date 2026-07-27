@@ -38,6 +38,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Bunty3545/DSA/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Bunty3545/DSA/tree/master/0198-house-robber) |
 | [3693-climbing-stairs-ii](https://github.com/Bunty3545/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |
@@ -46,5 +47,6 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Bunty3545/DSA/tree/master/0198-house-robber) |
 | [3693-climbing-stairs-ii](https://github.com/Bunty3545/DSA/tree/master/3693-climbing-stairs-ii) |
 <!---LeetCode Topics End-->

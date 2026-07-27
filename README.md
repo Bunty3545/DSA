@@ -49,4 +49,20 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | ------- |
 | [0198-house-robber](https://github.com/Bunty3545/DSA/tree/master/0198-house-robber) |
 | [3693-climbing-stairs-ii](https://github.com/Bunty3545/DSA/tree/master/3693-climbing-stairs-ii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Bunty3545/DSA/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Bunty3545/DSA/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Bunty3545/DSA/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Bunty3545/DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->

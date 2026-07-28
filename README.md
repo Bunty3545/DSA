@@ -34,6 +34,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Bunty3545/DSA/tree/master/0070-climbing-stairs) |
+| [0976-largest-perimeter-triangle](https://github.com/Bunty3545/DSA/tree/master/0976-largest-perimeter-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,6 +49,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Bunty3545/DSA/tree/master/0198-house-robber) |
+| [0976-largest-perimeter-triangle](https://github.com/Bunty3545/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [3693-climbing-stairs-ii](https://github.com/Bunty3545/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Tree
 |  |
@@ -65,4 +67,12 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Bunty3545/DSA/tree/master/0100-same-tree) |
+## Greedy
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Bunty3545/DSA/tree/master/0976-largest-perimeter-triangle) |
+## Sorting
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Bunty3545/DSA/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->

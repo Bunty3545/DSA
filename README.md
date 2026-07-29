@@ -52,6 +52,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0198-house-robber](https://github.com/Bunty3545/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Bunty3545/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0976-largest-perimeter-triangle](https://github.com/Bunty3545/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Bunty3545/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3693-climbing-stairs-ii](https://github.com/Bunty3545/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Tree
 |  |
@@ -81,4 +82,12 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Bunty3545/DSA/tree/master/0300-longest-increasing-subsequence) |
+## String
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Bunty3545/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Bunty3545/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->

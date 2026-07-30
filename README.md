@@ -85,6 +85,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## String
 |  |
 | ------- |
+| [0709-to-lower-case](https://github.com/Bunty3545/DSA/tree/master/0709-to-lower-case) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Bunty3545/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |

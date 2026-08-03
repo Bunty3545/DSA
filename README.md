@@ -34,6 +34,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Bunty3545/DSA/tree/master/0070-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/Bunty3545/DSA/tree/master/0788-rotated-digits) |
 | [0976-largest-perimeter-triangle](https://github.com/Bunty3545/DSA/tree/master/0976-largest-perimeter-triangle) |
 ## Dynamic Programming
 |  |
@@ -41,6 +42,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0070-climbing-stairs](https://github.com/Bunty3545/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Bunty3545/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Bunty3545/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0788-rotated-digits](https://github.com/Bunty3545/DSA/tree/master/0788-rotated-digits) |
 | [3693-climbing-stairs-ii](https://github.com/Bunty3545/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |

@@ -55,6 +55,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0198-house-robber](https://github.com/Bunty3545/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Bunty3545/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0454-4sum-ii](https://github.com/Bunty3545/DSA/tree/master/0454-4sum-ii) |
+| [0912-sort-an-array](https://github.com/Bunty3545/DSA/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Bunty3545/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Bunty3545/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3693-climbing-stairs-ii](https://github.com/Bunty3545/DSA/tree/master/3693-climbing-stairs-ii) |
@@ -86,6 +87,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Bunty3545/DSA/tree/master/0088-merge-sorted-array) |
+| [0912-sort-an-array](https://github.com/Bunty3545/DSA/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Bunty3545/DSA/tree/master/0976-largest-perimeter-triangle) |
 ## Binary Search
 |  |
@@ -108,4 +110,28 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0454-4sum-ii](https://github.com/Bunty3545/DSA/tree/master/0454-4sum-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Bunty3545/DSA/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Bunty3545/DSA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Bunty3545/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Bunty3545/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Bunty3545/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Bunty3545/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->

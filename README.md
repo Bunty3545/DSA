@@ -57,6 +57,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0454-4sum-ii](https://github.com/Bunty3545/DSA/tree/master/0454-4sum-ii) |
 | [0912-sort-an-array](https://github.com/Bunty3545/DSA/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Bunty3545/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [1144-decrease-elements-to-make-array-zigzag](https://github.com/Bunty3545/DSA/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Bunty3545/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3693-climbing-stairs-ii](https://github.com/Bunty3545/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Tree
@@ -87,6 +88,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Bunty3545/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [1144-decrease-elements-to-make-array-zigzag](https://github.com/Bunty3545/DSA/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 ## Sorting
 |  |
 | ------- |

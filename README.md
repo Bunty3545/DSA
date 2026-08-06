@@ -95,6 +95,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0088-merge-sorted-array](https://github.com/Bunty3545/DSA/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/Bunty3545/DSA/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Bunty3545/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [1859-sorting-the-sentence](https://github.com/Bunty3545/DSA/tree/master/1859-sorting-the-sentence) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +104,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/Bunty3545/DSA/tree/master/0709-to-lower-case) |
+| [1859-sorting-the-sentence](https://github.com/Bunty3545/DSA/tree/master/1859-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Bunty3545/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
@@ -140,4 +142,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Bunty3545/DSA/tree/master/0912-sort-an-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Bunty3545/DSA/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->

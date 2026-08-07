@@ -33,6 +33,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Bunty3545/DSA/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Bunty3545/DSA/tree/master/0070-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Bunty3545/DSA/tree/master/0788-rotated-digits) |
 | [0976-largest-perimeter-triangle](https://github.com/Bunty3545/DSA/tree/master/0976-largest-perimeter-triangle) |
@@ -103,6 +104,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Bunty3545/DSA/tree/master/0013-roman-to-integer) |
 | [0709-to-lower-case](https://github.com/Bunty3545/DSA/tree/master/0709-to-lower-case) |
 | [1859-sorting-the-sentence](https://github.com/Bunty3545/DSA/tree/master/1859-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Bunty3545/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -117,6 +119,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Bunty3545/DSA/tree/master/0013-roman-to-integer) |
 | [0454-4sum-ii](https://github.com/Bunty3545/DSA/tree/master/0454-4sum-ii) |
 ## Divide and Conquer
 |  |

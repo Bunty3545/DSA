@@ -155,5 +155,10 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Bunty3545/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/Bunty3545/DSA/tree/master/0509-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Bunty3545/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->

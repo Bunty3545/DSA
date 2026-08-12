@@ -61,6 +61,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0198-house-robber](https://github.com/Bunty3545/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Bunty3545/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0454-4sum-ii](https://github.com/Bunty3545/DSA/tree/master/0454-4sum-ii) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Bunty3545/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0912-sort-an-array](https://github.com/Bunty3545/DSA/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Bunty3545/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/Bunty3545/DSA/tree/master/1144-decrease-elements-to-make-array-zigzag) |
@@ -101,6 +102,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Bunty3545/DSA/tree/master/0088-merge-sorted-array) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Bunty3545/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0912-sort-an-array](https://github.com/Bunty3545/DSA/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Bunty3545/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1859-sorting-the-sentence](https://github.com/Bunty3545/DSA/tree/master/1859-sorting-the-sentence) |
@@ -112,6 +114,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Bunty3545/DSA/tree/master/0013-roman-to-integer) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Bunty3545/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Bunty3545/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Bunty3545/DSA/tree/master/0709-to-lower-case) |
 | [1859-sorting-the-sentence](https://github.com/Bunty3545/DSA/tree/master/1859-sorting-the-sentence) |
@@ -124,12 +127,14 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Bunty3545/DSA/tree/master/0088-merge-sorted-array) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Bunty3545/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Bunty3545/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Bunty3545/DSA/tree/master/0013-roman-to-integer) |
 | [0454-4sum-ii](https://github.com/Bunty3545/DSA/tree/master/0454-4sum-ii) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Bunty3545/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Divide and Conquer
 |  |
 | ------- |

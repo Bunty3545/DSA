@@ -35,6 +35,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | ------- |
 | [0013-roman-to-integer](https://github.com/Bunty3545/DSA/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Bunty3545/DSA/tree/master/0070-climbing-stairs) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Bunty3545/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0509-fibonacci-number](https://github.com/Bunty3545/DSA/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Bunty3545/DSA/tree/master/0788-rotated-digits) |
 | [0976-largest-perimeter-triangle](https://github.com/Bunty3545/DSA/tree/master/0976-largest-perimeter-triangle) |
@@ -45,6 +46,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0118-pascals-triangle](https://github.com/Bunty3545/DSA/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Bunty3545/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Bunty3545/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Bunty3545/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0509-fibonacci-number](https://github.com/Bunty3545/DSA/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Bunty3545/DSA/tree/master/0788-rotated-digits) |
 | [3693-climbing-stairs-ii](https://github.com/Bunty3545/DSA/tree/master/3693-climbing-stairs-ii) |
@@ -176,4 +178,12 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Bunty3545/DSA/tree/master/1672-richest-customer-wealth) |
+## Minimax
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Bunty3545/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Bunty3545/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->

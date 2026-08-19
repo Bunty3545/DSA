@@ -66,6 +66,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Bunty3545/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0912-sort-an-array](https://github.com/Bunty3545/DSA/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Bunty3545/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/Bunty3545/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/Bunty3545/DSA/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1470-shuffle-the-array](https://github.com/Bunty3545/DSA/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/Bunty3545/DSA/tree/master/1672-richest-customer-wealth) |
@@ -108,6 +109,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Bunty3545/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0912-sort-an-array](https://github.com/Bunty3545/DSA/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Bunty3545/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/Bunty3545/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1859-sorting-the-sentence](https://github.com/Bunty3545/DSA/tree/master/1859-sorting-the-sentence) |
 ## Binary Search
 |  |
@@ -132,6 +134,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0088-merge-sorted-array](https://github.com/Bunty3545/DSA/tree/master/0088-merge-sorted-array) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Bunty3545/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Bunty3545/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/Bunty3545/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |

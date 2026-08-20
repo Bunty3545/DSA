@@ -58,6 +58,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bunty3545/DSA/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Bunty3545/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Bunty3545/DSA/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Bunty3545/DSA/tree/master/0198-house-robber) |
@@ -138,6 +139,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bunty3545/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Bunty3545/DSA/tree/master/0013-roman-to-integer) |
 | [0454-4sum-ii](https://github.com/Bunty3545/DSA/tree/master/0454-4sum-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Bunty3545/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |

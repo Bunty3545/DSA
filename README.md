@@ -35,6 +35,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | ------- |
 | [0013-roman-to-integer](https://github.com/Bunty3545/DSA/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Bunty3545/DSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Bunty3545/DSA/tree/master/0189-rotate-array) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Bunty3545/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0509-fibonacci-number](https://github.com/Bunty3545/DSA/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Bunty3545/DSA/tree/master/0788-rotated-digits) |
@@ -61,6 +62,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0001-two-sum](https://github.com/Bunty3545/DSA/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Bunty3545/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Bunty3545/DSA/tree/master/0118-pascals-triangle) |
+| [0189-rotate-array](https://github.com/Bunty3545/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Bunty3545/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Bunty3545/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0454-4sum-ii](https://github.com/Bunty3545/DSA/tree/master/0454-4sum-ii) |
@@ -133,6 +135,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Bunty3545/DSA/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Bunty3545/DSA/tree/master/0189-rotate-array) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Bunty3545/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Bunty3545/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bunty3545/DSA/tree/master/0977-squares-of-a-sorted-array) |

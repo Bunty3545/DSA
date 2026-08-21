@@ -43,6 +43,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bunty3545/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Bunty3545/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Bunty3545/DSA/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Bunty3545/DSA/tree/master/0198-house-robber) |
@@ -121,6 +122,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bunty3545/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Bunty3545/DSA/tree/master/0013-roman-to-integer) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Bunty3545/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Bunty3545/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -134,6 +136,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bunty3545/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/Bunty3545/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Bunty3545/DSA/tree/master/0189-rotate-array) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Bunty3545/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -195,4 +198,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Bunty3545/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bunty3545/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

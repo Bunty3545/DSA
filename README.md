@@ -44,6 +44,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bunty3545/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Bunty3545/DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Bunty3545/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Bunty3545/DSA/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Bunty3545/DSA/tree/master/0198-house-robber) |
@@ -124,6 +125,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bunty3545/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Bunty3545/DSA/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/Bunty3545/DSA/tree/master/0022-generate-parentheses) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Bunty3545/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Bunty3545/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Bunty3545/DSA/tree/master/0709-to-lower-case) |
@@ -202,4 +204,12 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bunty3545/DSA/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Bunty3545/DSA/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Bunty3545/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

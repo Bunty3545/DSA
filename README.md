@@ -124,6 +124,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bunty3545/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/Bunty3545/DSA/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Bunty3545/DSA/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Bunty3545/DSA/tree/master/0022-generate-parentheses) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Bunty3545/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |

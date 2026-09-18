@@ -1,40 +1,27 @@
+
 class Solution {
 public:
-    string longestPalindrome(string s) {
-        int n = s.size();
-        if (n <= 1) return s;
-        
-        vector<vector<bool>> dp(n, vector<bool>(n, false));
-        int maxLen = 1;
-        int start = 0;
-
-     
-        for (int i = 0; i < n; i++) dp[i][i] = true;
-
-
-        for (int i = 0; i < n - 1; i++) {
-            if (s[i] == s[i + 1]) {
-                dp[i][i + 1] = true;
-                start = i;
-                maxLen = 2;
+    std::string longestPalindrome(std::string s) {
+        if (s.empty()) return "";
+        int start = 0, maxLength = 0;
+        int n = s.length();
+        for (int i = 0; i < n; ) {
+            int left = i, right = i;
+            while (right < n - 1 && s[right] == s[right + 1]) {
+                right++;
+            }
+            i = right + 1;
+            while (left > 0 && right < n - 1 && s[left - 1] == s[right + 1]) {
+                left--;
+                right++;
+            }
+            int length = right - left + 1;
+            if (length > maxLength) {
+                start = left;
+                maxLength = length;
             }
         }
-
-        // Check substrings longer than 2
-        for (int len = 3; len <= n; len++) {
-            for (int i = 0; i <= n - len; i++) {
-                int j = i + len - 1;
-
-                if (s[i] == s[j] && dp[i + 1][j - 1]) {
-                    dp[i][j] = true;
-                    if (len > maxLen) {
-                        start = i;
-                        maxLen = len;
-                    }
-                }
-            }
-        }
-
-        return s.substr(start, maxLen);
+        return s.substr(start, maxLength);
     }
 };
+

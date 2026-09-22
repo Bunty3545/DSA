@@ -33,6 +33,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Bunty3545/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Bunty3545/DSA/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Bunty3545/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Bunty3545/DSA/tree/master/0189-rotate-array) |
@@ -184,11 +185,13 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Bunty3545/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Bunty3545/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/Bunty3545/DSA/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Bunty3545/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Bunty3545/DSA/tree/master/0021-merge-two-sorted-lists) |
 ## Matrix
 |  |

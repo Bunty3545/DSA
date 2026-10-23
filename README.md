@@ -67,6 +67,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | ------- |
 | [0001-two-sum](https://github.com/Bunty3545/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bunty3545/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Bunty3545/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/Bunty3545/DSA/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/Bunty3545/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Bunty3545/DSA/tree/master/0118-pascals-triangle) |
@@ -149,6 +150,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bunty3545/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Bunty3545/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Bunty3545/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Bunty3545/DSA/tree/master/0189-rotate-array) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Bunty3545/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |

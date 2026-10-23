@@ -65,6 +65,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bunty3545/DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Bunty3545/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0088-merge-sorted-array](https://github.com/Bunty3545/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Bunty3545/DSA/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Bunty3545/DSA/tree/master/0189-rotate-array) |
@@ -122,6 +123,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Bunty3545/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/Bunty3545/DSA/tree/master/0300-longest-increasing-subsequence) |
 ## String
 |  |
@@ -161,6 +163,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Bunty3545/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0912-sort-an-array](https://github.com/Bunty3545/DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |

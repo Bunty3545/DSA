@@ -48,6 +48,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bunty3545/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Bunty3545/DSA/tree/master/0022-generate-parentheses) |
+| [0064-minimum-path-sum](https://github.com/Bunty3545/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Bunty3545/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Bunty3545/DSA/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Bunty3545/DSA/tree/master/0198-house-robber) |
@@ -66,6 +67,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | ------- |
 | [0001-two-sum](https://github.com/Bunty3545/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bunty3545/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0064-minimum-path-sum](https://github.com/Bunty3545/DSA/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/Bunty3545/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Bunty3545/DSA/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Bunty3545/DSA/tree/master/0189-rotate-array) |
@@ -203,6 +205,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Bunty3545/DSA/tree/master/0064-minimum-path-sum) |
 | [1672-richest-customer-wealth](https://github.com/Bunty3545/DSA/tree/master/1672-richest-customer-wealth) |
 ## Minimax
 |  |

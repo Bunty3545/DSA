@@ -67,6 +67,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | ------- |
 | [0001-two-sum](https://github.com/Bunty3545/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bunty3545/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Bunty3545/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bunty3545/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/Bunty3545/DSA/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Bunty3545/DSA/tree/master/0064-minimum-path-sum) |
@@ -138,6 +139,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0006-zigzag-conversion](https://github.com/Bunty3545/DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Bunty3545/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Bunty3545/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Bunty3545/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Bunty3545/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Bunty3545/DSA/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bunty3545/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -248,4 +250,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Bunty3545/DSA/tree/master/0056-merge-intervals) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Bunty3545/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
